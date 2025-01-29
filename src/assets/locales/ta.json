@@ -1,0 +1,44 @@
+{
+  "common": {
+    "app_name": "KwicV2Ui",
+    "welcome": "வரவேற்கிறேன்",
+    "hello": "வணக்கம்",
+    "cancel": "ரத்து செய்",
+    "save": "சேமி",
+    "submit": "சமர்ப்பிக்கவும்",
+    "yes": "ஆம்",
+    "no": "இல்லை",
+    "loading": "ஏற்றுகிறது",
+    "error": "பிழை",
+    "success": "வெற்றி",
+    "warning": "எச்சரிக்கை",
+    "info": "தகவல்",
+    "confirm": "உறுதிப்படுத்து",
+    "close": "மூடு",
+    "all_right_reserved": "அனைத்து உரிமைகளும் பதிவு செய்யப்பட்டு உள்ளன"
+  },
+  "authentication": {
+    "username": "பயனர்பெயர்",
+    "password": "கடவுச்சொல்",
+    "login": "உள்நுழைய",
+    "logout": "வெளியேறு",
+    "signup": "பதிவு செய்",
+    "forgot_password": "கடவுச்சொல் மறந்துவிட்டேன்",
+    "reset_password": "கடவுச்சொல் மீளமைக்க",
+    "account": "கணக்கு",
+    "login_to_app": "Login to KwicV2Ui"
+  },
+  "profile": {
+    "edit_profile": "சுயவிவரம் திருத்து",
+    "change_password": "கடவுச்சொல் மாற்று",
+    "update_profile": "சுயவிவரம் புதுப்பிக்க",
+    "logout": "வெளியேறு",
+    "personal_information": "தனிப்பட்ட தகவல்"
+  },
+  "errors": {
+    "page_not_found": "பக்கம் கிடைக்கவில்லை",
+    "something_went_wrong": "எதாவது பிழை ஏற்பட்டது",
+    "no_internet_connection": "இணைய இணைப்பு இல்லை",
+    "server_error": "சேவையக பிழை"
+  }
+}

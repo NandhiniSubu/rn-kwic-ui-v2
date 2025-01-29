@@ -1,0 +1,45 @@
+{
+  "common": {
+    "app_name": "KwicV2Ui",
+    "welcome": "Welcome back,",
+    "hello": "Hello",
+    "cancel": "Cancel",
+    "save": "Save",
+    "submit": "Submit",
+    "yes": "Yes",
+    "no": "No",
+    "loading": "Loading",
+    "error": "Error",
+    "success": "Success",
+    "warning": "Warning",
+    "info": "Information",
+    "confirm": "Confirm",
+    "close": "Close",
+    "all_right_reserved": "All Right Reserved"
+  },
+  "authentication": {
+    "username": "Username",
+    "password": "Password",
+    "login": "Login",
+    "logout": "Logout",
+    "signup": "Sign Up",
+    "forgot_password": "Forgot Password",
+    "reset_password": "Reset Password",
+    "account": "Account",
+    "login_to_app": "Login to KwicV2Ui"
+  },
+  "profile": {
+    "edit_profile": "Edit Profile",
+    "change_password": "Change Password",
+    "update_profile": "Update Profile",
+    "logout": "Logout",
+    "personal_information": "Personal Information"
+  },
+
+  "errors": {
+    "page_not_found": "Page Not Found",
+    "something_went_wrong": "Something went wrong",
+    "no_internet_connection": "No Internet Connection",
+    "server_error": "Server Error"
+  }
+}
