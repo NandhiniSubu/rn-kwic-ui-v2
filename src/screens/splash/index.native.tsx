@@ -17,7 +17,7 @@ const SplashScreen = (props: any) => {
 
   return (
     <SafeAreaView style={styles.container}>
-      <Text>Welcome To React Native</Text>
+      <Text>Welcome To React Native !</Text>
     </SafeAreaView>
   );
 };
